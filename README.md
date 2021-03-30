@@ -1,1 +1,3 @@
-# siop_ml_comp_2021
+# SIOP 2021 ML Competition
+
+This repository stores code created for a machine learning competition part of the SIOP (Society for Industrial and Organizational Psychology) 2021 Annual Conference.
